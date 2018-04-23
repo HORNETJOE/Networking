@@ -22,7 +22,7 @@
  communications bettwen the two PC's can  be anything that can be trasnfered from one PC to another.
  
  #### working practice 
- 
+ the work practise that would need to be done on a peer to peer network will be minimal beucase a peer to peer netowkr is a simple network that does not have many camplex issues or requirments to handle.
  
  #### commercial opportunity 
  
