@@ -2,32 +2,30 @@
 
 ## Network types and standards.
 
-### Different types of networks
- #### Peer-based
+## Different types of networks
+ ### Peer-based
  
- ##### benefits
+ #### benefits
  
- ##### resource implications 
+ #### resource implications 
  
- ##### communications 
+ #### communications 
  
- ##### working practice 
+ #### working practice 
  
- ##### commercial opportunity 
+ #### commercial opportunity 
  
- ##### information sharing 
+ #### information sharing 
  
- ##### collaboration
+ #### collaboration
  
+ ### client-server 
  
- peer-based networking is when two or more PC are connected 
- #### client-server 
+ ### cloud
  
- #### cloud
+ ### cluster
  
- #### cluster
+ ### centralised
  
- #### centralised
- 
- #### virtualised
+ ### virtualised
  
