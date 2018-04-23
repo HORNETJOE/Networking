@@ -20,7 +20,7 @@
  Peer to peer networking allows for commercial opportunities such as being able to work with other members of the business by sharing files and data between them seemplesly using the network with little risk of data being intercepted by outside sources.
  
  #### information sharing 
- infomation can be shared easily on a peer to peer nerwork as long at the reciving and sending PC are on the same network. The infomation that is being sent does have a chnace of being curupted if it is intercepted by other data during its transit to the reciving PC.
+ infomation can be shared easily on a peer to peer nerwork as long at the reciving and sending PC are on the same network. The infomation that is being sent does have a chnace of being curupted if it is intercepted by other data during its transit to the reciving PC. 
  
  #### collaboration
  
