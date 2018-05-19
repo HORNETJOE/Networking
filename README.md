@@ -106,5 +106,18 @@
 
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
+#### Ethernet
 
-## physical 
+#### Token Ring
+
+### physical 
+
+#### Star
+
+#### Ring
+
+#### Bus
+
+#### Mesh
+
+#### Tree
