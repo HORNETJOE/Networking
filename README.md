@@ -70,35 +70,38 @@ There are many benefits of using a cloud network. Here are some of the benefits:
  Information sharing will be allowing easier on a cloud network without needing a wired connection to the network and being able to access the information from anywhere with an internet connection.
  
  ### cluster
- A cluster network is a network in which all the nodes (client used as a server) on the network are set to the same task with each one running their own instance of a operating system.
+A cluster network is a network in which all the nodes (client used as a server) on the network are set to the same task with each one running their own instance of an operating system. The cluster network is similar to most networks however it is more scattered then most networks meaning some device maybe perform the same tasks as other not making it the most efficient network but making it a working network nonetheless.
 
  #### benefits
+ * a cluster server can host more thej one server which handles the same task, so if one server was to go down the other server can take its place to prevent any problems untill the first server's issue is fix.
+ 
+ * The cluster network is complete scalable which means that it can be used for small networks and large networks by adding more devices or less devices respectively.
+ 
+* When a server is down for maintenance another server can take its position to make maintenance easier while still keeping the network up for the clients.
 
  #### resource implications 
+The resources that are needed to create a cluster network are the clients which access the network one or more servers to direct traffic around the network and a router to connect to other networks.
  
  #### communications 
+ comminication is like any other network in which a message can be sent from one PC on the network to another PC on the network through the network's server(s).
  
- #### working practice 
+ #### information sharing
+information sharing on a cluster network can work like any other network but can be slow at times when multiple packets of data intercept each other by having all the clients connected to each other as well as the server but it could also allow for fast transport for the data package if the destination client in nearby on the system.
  
- #### commercial opportunity 
- 
- #### information sharing 
- 
- ### centralised
- 
- #### benefits
-
+### centralised
+A centralised network is when all clients and devices on the network are connected to a main server. This main server holds all the information on the clients and devise and the conversations that they produce.
  #### resource implications 
+ The resources what will be needed for this network to be implemented would be the clients and the main server which holds all the information and communication.
  
- #### communications 
+#### communications 
+ The communications that are created on the network are stored on the main server which handles all the things about the network.
  
  #### working practice 
- 
- #### commercial opportunity 
- 
+ The working practice for this network is that all the conversations and information is passed through the server which can them check for any unwanted or inappropriate content allowed on and out of the network.
  #### information sharing 
+information can be shared throughout the network but it has to pass through and stored on the main server which can then be seen later on for monetisation and review.
  
- ### virtualised
+ ### virtualized
  
   #### benefits
 
