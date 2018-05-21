@@ -39,28 +39,39 @@ There are many benefits to client-server networks. Some of these benefits are:
  The resources that will be needed for this network to be implemented would be the client PC's and a main client to act as the server to connect the network together. The clients are connected to each other and information and data is transmitted from/to each client.
  #### communications 
  Communication on the network works differently than a server network. On a client-server the clients on the network communicate with each other directly.
- #### working practice 
- 
  #### commercial opportunity 
- 
+ The commercial opportunity that client-server offers to business and companies is a simple network connection between each client's PC to allow the exchange of data and information between each client.
  #### information sharing 
- 
+ infomation sharing on a client server is very similer to peer to peer network in whihc it allows all clients on the server to communicate to each other using data and infomation which is sent to each client's PC to and from a main client called a server.
  ### cloud
- 
+A Cloud network is a virtual network that can be accessed by an internet connection. This cloud network can belong to a private company or an open group and will act as a virtual network for that business with its own vital firewall, server and router. A could network can also be known as a internet based network.
   #### benefits
+There are many benefits of using a cloud network. Here are some of the benefits:
 
- #### resource implications 
+* Reduce maintenance cost for upkeep
+
+* The scalability of a cloud network can be nearly endless with the amount of data and information it can hold. Cloud networks don't take up much physical space and still maintaining a massive network size and capacity.
+
+* The cloud allows for easy communication and ease of use when accessing or uploading data to the network from any wireless access point connected to the network.
+
+ #### resource implications
+ The resources needed to implement a cloud network are a router to connect a existing network or a device to the cloud network and the hardware needed to host the virtual network on.
  
  #### communications 
+ The cloud network will allow for fast and easy ways to communicate from one client's device to another. This is because it is wireless which allows users to communicate from anywhere which is connected to the network through the internet.
  
- #### working practice 
- 
- #### commercial opportunity 
- 
- #### information sharing 
+#### working practice 
+ The cloud network allows for a safe working practice because most cloud networks contain a virtual firewall which should protect from any unwanted software. 
+
+#### commercial opportunity 
+  There are a lot of commercial opportunity for a business if they own a cloud server they can sell the user of them could network to outside users for a fee. The company will also be allowed to set up anywhere in the world with an internet connection and still access their file and data stored on the cloud.
+
+#### information sharing 
+ Information sharing will be allowing easier on a cloud network without needing a wired connection to the network and being able to access the information from anywhere with an internet connection.
  
  ### cluster
- 
+ A cluster network is a network in which all the nodes (client used as a server) on the network are set to the same task with each one running their own instance of a operating system.
+
  #### benefits
 
  #### resource implications 
