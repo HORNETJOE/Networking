@@ -104,7 +104,9 @@ information can be shared throughout the network but it has to pass through and 
 ### virtualized
  virtualized networks are a mix of both a virtual network and a LAN network (VLAN). These types of networks are common with large corporations which use this network to get the best of both types of networks, which would be the best of having a physical network and the best of having a virtual network connected to the business.
 #### benefits
- * One benefit is that when the network is in use you can get the best of having a physical network with clients and a server and also use a virtual network like a cloud to work with the physical network to allow for more information and a faster communication around the business
+* One benefit is that when the network is in use you can get the best of having a physical network with clients and a server and also use a virtual network like a cloud to work with the physical network to allow for more information and a faster communication around the business
+ 
+ * If the virtual network was to go down and was unusable clients on the physical network will still be able to communicate on client still on that network meaning work can continue even if it is on a smaller network then before.
 
  #### resource implications 
  the resources that are needed for create this network would be the physical components for the physical server which would be the clients, server and the router to connect to the cloud network.
