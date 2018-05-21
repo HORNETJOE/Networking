@@ -101,19 +101,24 @@ A centralised network is when all clients and devices on the network are connect
  #### information sharing 
 information can be shared throughout the network but it has to pass through and stored on the main server which can then be seen later on for monetisation and review.
  
- ### virtualized
- 
-  #### benefits
+### virtualized
+ virtualized networks are a mix of both a virtual network and a LAN network (VLAN). These types of networks are common with large corporations which use this network to get the best of both types of networks, which would be the best of having a physical network and the best of having a virtual network connected to the business.
+#### benefits
+ * One benefit is that when the network is in use you can get the best of having a physical network with clients and a server and also use a virtual network like a cloud to work with the physical network to allow for more information and a faster communication around the business
 
  #### resource implications 
+ the resources that are needed for create this network would be the physical components for the physical server which would be the clients, server and the router to connect to the cloud network.
  
  #### communications 
+ Communications will be easy to do by being able to communicate with anyone connected to the network (cloud/physical). The speed may be quicker if the target client is on the same physical network as you rather than sending it over the cloud.
  
  #### working practice 
+the working practise for this network maybe cause problems because the room for error is larger now that two different types of networks are connected together. A problem may occur on the virtual network which might be not detected by the physical network which may take it a while to be detected and removed.
  
  #### commercial opportunity 
  
  #### information sharing 
+Information sharing will become easier on a network because it will allow people to communicate around the world by using the virtual network and they can also communicate around the local network without relying on the virtual network.
 
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
