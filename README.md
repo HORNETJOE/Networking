@@ -122,6 +122,12 @@ the working practise for this network maybe cause problems because the room for 
  #### information sharing 
 Information sharing will become easier on a network because it will allow people to communicate around the world by using the virtual network and they can also communicate around the local network without relying on the virtual network.
 
+![Models](https://github.com/HORNETJOE/Networking/blob/master/tpi%20osi.jpg)
+
+## OSI model
+
+## TCP/IP model
+
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
 #### Ethernet
