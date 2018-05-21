@@ -122,9 +122,11 @@ the working practise for this network maybe cause problems because the room for 
  #### information sharing 
 Information sharing will become easier on a network because it will allow people to communicate around the world by using the virtual network and they can also communicate around the local network without relying on the virtual network.
 
-![Models](https://github.com/HORNETJOE/Networking/blob/master/tpi%20osi.jpg)
+![Models](https://github.com/HORNETJOE/Networking/blob/master/tpi%20osiimage.jpg)
 
 ## OSI model
+### The Physical Layer (Layer 1)1
+Layer 1 of the OSI model is named the physical layer because it is physical side of the model that the user sees and it is responsible for transmitting information to the user. This layer mainly acts as the interface to allow for communication for the other layers.
 
 ## TCP/IP model
 
