@@ -42,9 +42,9 @@ There are many benefits to client-server networks. Some of these benefits are:
  #### commercial opportunity 
  The commercial opportunity that client-server offers to business and companies is a simple network connection between each client's PC to allow the exchange of data and information between each client.
  #### information sharing 
- infomation sharing on a client server is very similer to peer to peer network in whihc it allows all clients on the server to communicate to each other using data and infomation which is sent to each client's PC to and from a main client called a server.
+ information sharing on a client server is very similar to peer to peer network in which it allows all clients on the server to communicate to each other using data and information which is sent to each client's PC to and from a main client called a server.
  ### cloud
-A Cloud network is a virtual network that can be accessed by an internet connection. This cloud network can belong to a private company or an open group and will act as a virtual network for that business with its own vital firewall, server and router. A could network can also be known as a internet based network.
+A Cloud network is a virtual network that can be accessed by an internet connection. This cloud network can belong to a private company or an open group and will act as a virtual network for that business with its own vital firewall, server and router. A could network can also be known as an internet based network.
   #### benefits
 There are many benefits of using a cloud network. Here are some of the benefits:
 
@@ -55,7 +55,7 @@ There are many benefits of using a cloud network. Here are some of the benefits:
 * The cloud allows for easy communication and ease of use when accessing or uploading data to the network from any wireless access point connected to the network.
 
  #### resource implications
- The resources needed to implement a cloud network are a router to connect a existing network or a device to the cloud network and the hardware needed to host the virtual network on.
+ The resources needed to implement a cloud network are a router to connect an existing network or a device to the cloud network and the hardware needed to host the virtual network on.
  
  #### communications 
  The cloud network will allow for fast and easy ways to communicate from one client's device to another. This is because it is wireless which allows users to communicate from anywhere which is connected to the network through the internet.
@@ -73,7 +73,7 @@ There are many benefits of using a cloud network. Here are some of the benefits:
 A cluster network is a network in which all the nodes (client used as a server) on the network are set to the same task with each one running their own instance of an operating system. The cluster network is similar to most networks however it is more scattered then most networks meaning some device maybe perform the same tasks as other not making it the most efficient network but making it a working network nonetheless.
 
  #### benefits
- * a cluster server can host more thej one server which handles the same task, so if one server was to go down the other server can take its place to prevent any problems untill the first server's issue is fix.
+ * a cluster server can host more the one server which handles the same task, so if one server was to go down the other server can take its place to prevent any problems until the first server's issue is fix.
  
  * The cluster network is complete scalable which means that it can be used for small networks and large networks by adding more devices or less devices respectively.
  
@@ -83,7 +83,7 @@ A cluster network is a network in which all the nodes (client used as a server) 
 The resources that are needed to create a cluster network are the clients which access the network one or more servers to direct traffic around the network and a router to connect to other networks.
  
  #### communications 
- comminication is like any other network in which a message can be sent from one PC on the network to another PC on the network through the network's server(s).
+ communication is like any other network in which a message can be sent from one PC on the network to another PC on the network through the network's server(s).
  
  #### information sharing
 information sharing on a cluster network can work like any other network but can be slow at times when multiple packets of data intercept each other by having all the clients connected to each other as well as the server but it could also allow for fast transport for the data package if the destination client in nearby on the system.
