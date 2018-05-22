@@ -138,9 +138,20 @@ The fifth layer is the session layer and this is responsible for session establi
 ### The Presentation Layer (Layer 6)
 The sixth layer of the OSI model is the Presentation layer and this handles the character code translation (I.E ASCII). It also handles encryption and compression.
 ### The Application Layer (Layer 7)
-The seventh layer of the OSI model is the Application layer which will very depepnding on the purpose of the application that it is used for. For example the applciation layer can provide network access to users as well as remote file access to users.
+The seventh layer of the OSI model is the Application and its purpose will change depepnding on the purpose of the application that it is used for. For example the applciation layer can provide network access to users as well as remote file access to users.
 ## TCP/IP model
 
+### The Link Layer (Layer 1)
+The first layer of the TCP/IP model is the link layer which acts as the interface for the network. This layer is a combination of the physcial layer and the data link layer of the OCI model.
+### The Internet Layer (Layer 2)
+The Internet layer is the next layer up from the link layer and is associated with the network layer of the OSI model. Functions include traffic routing, traffic control, fragmentation, and logical addressing. 
+### The Transport Layer (Layer 3)
+The transport layer is the thrid layer The functions are realetd to the OSI model. The functions include traffic control, error ddetection, message recording, message segmentation and acknowledgment.
+### The Application Layer (Layer 4)
+The forth layer in this model is the application model. In the TCP/IP model the applciation model is used to handle all process-to-process communication functions; these functions were carried out by multible different layers when referencing the OSI model.
+## Benefits of TCP/IP and OCI models
+
+## working standard and protocols
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
 #### Ethernet
