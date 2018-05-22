@@ -127,7 +127,18 @@ Information sharing will become easier on a network because it will allow people
 ## OSI model
 ### The Physical Layer (Layer 1)1
 Layer 1 of the OSI model is named the physical layer because it is physical side of the model that the user sees and it is responsible for transmitting information to the user. This layer mainly acts as the interface to allow for communication for the other layers.
-
+### The Data Link Layer (Layer 2)
+The second layer of the OSI model is the data link layer which is responsible for creating a link between the layers. The data link layer is also responsible for error checking and accessing media across the model.
+### The Network Layer (Layer 3)
+layer 3 of the OSI model is the network layer which where the network traffic is handled. This layer makes routing decisions as well as and provides traffic control in the network.
+### The Transport Layer (Layer 4)
+The forth layer of the OSI model is the Transport layer which handles traffic in the network and is responsible for message segmentation. the transport layer also makes sure that messages reach their destination and make sure they stay intact and don't lose any information along the way.
+### The Session Layer (Layer 5)
+The fifth layer is the session layer and this is responsible for session establishment, maintenance and termination.
+### The Presentation Layer (Layer 6)
+The sixth layer of the OSI model is the Presentation layer and this handles the character code translation (I.E ASCII). It also handles encryption and compression.
+### The Application Layer (Layer 7)
+The seventh layer of the OSI model is the Application layer which will very depepnding on the purpose of the application that it is used for. For example the applciation layer can provide network access to users as well as remote file access to users.
 ## TCP/IP model
 
 ## the impact of network topology, communication and bandwidth requirements
