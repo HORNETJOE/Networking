@@ -122,7 +122,7 @@ the working practise for this network maybe cause problems because the room for 
  #### information sharing 
 Information sharing will become easier on a network because it will allow people to communicate around the world by using the virtual network and they can also communicate around the local network without relying on the virtual network.
 
-![Models]( https://github.com/HORNETJOE/Networking/blob/master/tpi%20osiimage.jpg)
+![Models](https://github.com/HORNETJOE/Networking/blob/master/TCP%20OSI%20model.jpg)
 
 ## OSI model
 ### The Physical Layer (Layer 1)1
