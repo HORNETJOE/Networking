@@ -150,6 +150,14 @@ The transport layer is the thrid layer The functions are realetd to the OSI mode
 ### The Application Layer (Layer 4)
 The forth layer in this model is the application model. In the TCP/IP model the applciation model is used to handle all process-to-process communication functions; these functions were carried out by multible different layers when referencing the OSI model.
 ## Benefits of TCP/IP and OCI models
+| TCP/IP | OSI |
+| ------------- | ------------- |
+| The TCP/IP model is less reliable because TCP/IP model’s transport layer does not guarantee delivery of packets.  | In OSI model the transport layer guarantees the delivery of packets.  |
+| TCP/IP follows horizontal approach.  | OSI follows vertical approach.  |
+| TCP/IP does not have a separate Presentation layer or Session layer.  | OSI model has a separate Presentation layer and Session layer.  |
+| Transport Layer is both Connection Oriented and Connection less.  | Transport Layer is Connection Oriented.  |
+| Network Layer is Connection less than the OSI model.  | Network Layer is both Connection Oriented and Connection less.  |
+
 
 ## working standard and protocols
 ## the impact of network topology, communication and bandwidth requirements
