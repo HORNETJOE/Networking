@@ -160,6 +160,18 @@ The forth layer in this model is the application model. In the TCP/IP model the 
 
 
 ## working standard and protocols
+### IEEE 802.3
+IEEE stands for Electrical and Electronics Engineers and it is responsible for defining ethernet-based networks as well as the name of the working group assigned to develop these standards. IEEE 802.3 defines the physical layer and the media access control. It could be stated that the IEEE 802.3 could otherwise be known as the ethernet standard that defines the physical layer on a model.
+### IEEE 802.7
+This type of IEEE is comelier used for broadband local area networks. This type also focusses on the test parameters, design and installation for a broadband cable medium.
+### IEEE 802.8
+This type of IEEE is most used for the development practices for fibre optics. in LAN networks. This IEEE is used to configure and test fibre optic local area networks.
+### IEEE 802.11
+This type of IEEE is sued for developing standards for wireless local area networks. it uses frequency bands to implement wireless local area network computer communication.
+
+## Routed protocols
+A routing protocol is how routers communicate with each other. They exchange information that enables them to select routes on that network that would provide the best router for that information. This method only works when both routers know the network they are sending the information through. One type and the most popular type of routing protocol is IP addresses. They are a reason that IP addresses are more popular than other routed protocols.
+
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
 #### Ethernet
