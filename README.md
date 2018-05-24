@@ -176,7 +176,17 @@ IPv4 stands for internet protocol version 4 and was one of the core protocols st
 
 Global unicast is a feature in IPv6 which allows a convenient, publicly routable that can be used on the internet or any public domain that uses and single node. The problem that this causes is that when the data packets are sent they are not sent to the one target destination, instead they are sent across the network to all hosts which could cause major security risks.
 
-
+## Services and network applications
+### FTP
+FTP stands for file transfer protocol and it is used for the transfer of computer files and data between a client and a server on a network. FTP is most commonly found on client-server networks can controls and transitions between the server and the client
+### HTTP
+HTTP stands for Hypertexts Transfer Protocol. This type of protocol is used on the world wide web and it defines how messages are formatted and transmitted across the internet. It also controls how web servers and browsers will act based on various commands.
+### SMTP
+SMTP stands for Simple mail transfer Protocol and it is mainly used for email transmission. Emails that are sent over the internet use SMTP to have the ability to send the email from one server to another. This has become the standard protocol to use for email services.
+### POP
+POP stands for Post Office Protocol 3 and is a protocol designed to receive email. This email is the held at your internet server. POP3 works in conjunction with SMTP to complete the transfer of an email to reach another client on another server.
+### SSL
+SSL stands for Secure Sockets Layer and it is responsible for security over internet communications by using cryptographic methods such as encryption.
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
 #### Ethernet
