@@ -189,6 +189,7 @@ POP stands for Post Office Protocol 3 and is a protocol designed to receive emai
 SSL stands for Secure Sockets Layer and it is responsible for security over internet communications by using cryptographic methods such as encryption.
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
+
 #### Ethernet
 
 #### Token Ring
