@@ -172,6 +172,11 @@ This type of IEEE is sued for developing standards for wireless local area netwo
 ## Routed protocols
 A routing protocol is how routers communicate with each other. They exchange information that enables them to select routes on that network that would provide the best router for that information. This method only works when both routers know the network they are sending the information through. One type and the most popular type of routing protocol is IP addresses. They are a reason that IP addresses are more popular than other routed protocols.
 
+IPv4 stands for internet protocol version 4 and was one of the core protocols standard-based interworking methods on the internet. However due to the increased population and active users it was running out of address to assign, so another solution was to be implemented to avoid problems. This where IPv6 was introduced which was the sixth version to be created. It had plenty more address so it was to replace IPv4 to fix the problem of the lack of address.
+
+Global unicast is a feature in IPv6 which allows a convenient, publicly routable that can be used on the internet or any public domain that uses and single node. The problem that this causes is that when the data packets are sent they are not sent to the one target destination, instead they are sent across the network to all hosts which could cause major security risks.
+
+
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
 #### Ethernet
