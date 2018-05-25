@@ -252,3 +252,30 @@ A combination server is a server has the function of the file server and the dat
 Virtualization is a server technique the involves partitioning physical server into many small, virtual servers. Each virtual server runs their own operating system at the same time. These virtual servers can also provide web hosting services to users.
 #### Terminal Services
 A terminal service is a service that allows a user to take control of a remote computer or virtual machine using a network connection. This can allow a user to control aspects of other PC's from one PC to save time and resources and to prevent the user from going to each PC and changing them manually.
+## The interdependence of workstation hardware
+### Networking Software
+There are diffrent types of networking software, Below are the main six types of networking 9
+
+#### Client Software
+
+#### Server Software
+
+#### Client Operating System
+
+#### Server Operating system
+
+#### Firewall
+
+#### Proxies
+
+### Comparison of network and Cabling
+
+#### Network Comparison
+
+#### Cabling Used
+
+### Permissions
+
+## Local Workstation Architecture
+
+### System Bus
