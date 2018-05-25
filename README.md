@@ -239,3 +239,16 @@ A modem is a device that can transmit data across cable/telephone connection to 
 A packet shaper is a device that handles traffic going in and out of a network. Its job is to prioritize and direct traffic going in and out of the network. The rules they it follows can be set by a user so only specific data and infoamtion can enter and exit the network.
 #### VPN Concentrator
 A VPN concentrator is a device that can provide a secure connection and makes sure that packets of data make it to their destination.
+### Server types
+#### Web
+Web server is a program that uses HTTP to form web pages for the users to see. The user makes requests to view the webpage and the http in the web server performs the request by the user.
+#### File
+A file server is a device that controls access to separately stored files, as part of a multi-user system. This allows the file server to store infomation over the network without having to do it physically.
+#### Database
+A database server is a server that is designed to run a database. The database is then used to store data and infoamtion from the network. This database server can be accessed in two ways. These two ways are called the "backend" and the "frontend". The "backend" is when the database is accessed from a back door so that the data can be edited as the user wants. The "frontend" is where the infomation can be seen by the user and infomation can be edited and put into the database but must go through security procedures and specific privileges.
+#### Combination
+A combination server is a server has the function of the file server and the database server together. This server can perform the same actions as the file server and the database server at the same time.
+#### Virtualization
+Virtualization is a server technique the involves partitioning physical server into many small, virtual servers. Each virtual server runs their own operating system at the same time. These virtual servers can also provide web hosting services to users.
+#### Terminal Services
+A terminal service is a services that allows a user to take control of a remote computer or virtual machine using a network connection. This can allow a user to control aspects of other PC's from one PC to save time and resources and to prevent the user from going to each PC and changing them manually.
