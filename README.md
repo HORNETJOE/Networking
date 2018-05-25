@@ -189,19 +189,19 @@ POP stands for Post Office Protocol 3 and is a protocol designed to receive emai
 SSL stands for Secure Sockets Layer and it is responsible for security over internet communications by using cryptographic methods such as encryption.
 ## the impact of network topology, communication and bandwidth requirements
 ### logical
+The logical topology is set of fragments that define the arrangement and communication of the nodes on the network. The topology of the network can be maintained dynamically and reconfigured by the topology. The topology handles how the signals and how the data passes through the network and how it is handled on the devices on the network.
 
 #### Ethernet
-
-#### Token Ring
+One type of logical topology is Ethernet. Ehternet is the most used used local area network technology. Ethernet formats how data is transmitted to other network devices on the same network.
 
 ### physical 
-
+The Physical topology is the physical hardware of the network such as the clients and the servers on the network as well as the cables connecting them all together. It’s important to layout the network physical to make sure that it is layout out conveniently and does not get in the way of anyone or anything in the room.
+### different types of physical topologies
 #### Star
-
+The star topology is when all the devices and clients are connected to one central node which would mainly be a hub or switch.
 #### Ring
-
+The ring topology is when all the clients and devices on the network are connected to one other devices on that network in a circle layout such as PC1 connected to PC2 and PC2 connect to a server etc. 
 #### Bus
-
-#### Mesh
-
-#### Tree
+The bus topology is when all the clients and devices are connected on a single line which are terminated on both ends.
+### the difference
+the main difference between the physical and logical is that the logical topology is visualizing the network and the physical topology is how the network is represented in the physical space in a room/environment.
