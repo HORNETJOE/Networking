@@ -209,3 +209,33 @@ the main difference between the physical and logical is that the logical topolog
 Comminication is when infoamtion is sent from one client to another device. The devices that are suitable to recive and sent communication would be client PC. These devices are more suitable for creating infoamtion that can be sent over the network to another client PC that can recive the infomation and dislay it for the user to see. Each client would have to be connected to the intetnet to send infomation from one client to another client that is located on another network. The infoamtion paket is sent to the server on the local network which is then sent to the router which is connected to the other router of the other network. The infoamtion ap0cket is then sent to the server located on that network which is connect to the destination client. One potential risk of this is that the packet and be intercepted during its route without the proper security to occumpany it such as encryiption.
 
 The quality of the service will depend on the service that is sued to send the infoamtion across the network. Another aspect that can affect the quality of the infomation would be the bandwidth that is available when the infoamtion is sent. The more bandwidth the is available when the infomation is sent will allow the packet to be sent at a faster pace. If there is not much space let on the bandwidth then the packet will be slowed down and might lose data during transit.
+## Opertaing principles
+### Netowrking devices
+#### Hubs
+Hubs are connection points for devices in a network. The hub is sued to connects all aspects of a local network together. On the network the hub would be located at the centre on the network. The hub contains multiple ports that the clients and devices and connect to access other devices on the local area network.
+#### Routers
+A router is a device that is located on local area networks that connects to other routers on other networks. The router acts as a device on the local area network. The router directs traffic to and from other networks to allows for wide area network communication.
+#### Switches
+A switch is another device on the network which is connected to all the devices on the network and uses packet switching to redirect, recive and process infomation and data and then forward the data to their destination.
+#### Multilayer Switch
+A multilayer switch has the function of a normal switch with the added benefit of the ability to perform the actions of a router as well removing the router hardware from the network. The multilayer switch can work at a higher levels and speeds then the router.
+#### Firewall
+A fire wall is a piece of protection software that is sued to filter traffic entering a network for client to make sure that unwanted software does not enter a client system and to secure the network.
+#### HIDS
+HIDS is known as host-based intrusion detection system and is capable of monitoring and analysing the internals of a computing system. It can also analysis the data packets on its own network. When a malicious packet is found it reports the finding.
+#### Repeaters
+Repeaters are used in transmission systems to fix and repair digital signals distorted by transmission loss. They can also relay messages to devices located on the same network.
+#### Bridges
+a bridge in networking is a device that can create a single aggregate network from multiple communication networks. In simple terms a bridge can connect with other bridge networks to create a connection between the two. This device is mainly used on a LAN network and can determine whether the data can pass or not by using a database.
+#### Access Point
+An access point is a device on a network that allows for wireless connection from any device that was a wireless capability. This discards the use for wired connection and can make for a more convenient connection to a network.
+#### Content Filter
+Content filter is a program that can filter content and prevents certain items from entering the network. This can be used to prevent any harmful software from entering the network and keeping it secure.
+#### Load Balancer
+A load balancer is software that can distribute network/application traffic across the number of servers that are located on the network. They can increase productivity on the network.
+#### Modem
+A modem is a device that can transmit data across cable/telephone connection to transmit data and infoamtion from one place to another.
+#### Packet Shaper
+A packet shaper is a device that handles traffic going in and out of a network. Its job is to prioritize and direct traffic going in and out of the network. The rules they it follows can be set by a user so only specific data and infoamtion can enter and exit the network.
+#### VPN Concentrator
+A VPN concentrator is a device that can provide a secure connection and makes sure that packets of data make it to their destination.
