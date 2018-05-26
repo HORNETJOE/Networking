@@ -311,3 +311,7 @@ PC3 192.168.10.102
 Server 192.168.10.10
 
 Router 192.168.10.1
+
+### Creating the Network
+
+![Network]()
