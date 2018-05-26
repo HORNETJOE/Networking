@@ -289,7 +289,7 @@ Workstation Architecture refers to a specific computer which is designed for tec
 ### System Bus
 A system bus is a connection that is used to carry data between the main memory of the computer and carrying it to the microprocessor. It provides a communication pathway for the data to travel on. The address of the bus will determine where the information should be sent and the control bus is used to determine its operating when it gets there.
 ## Network design
-The design of the network is a star network where all the devices on the network are connected to a central point in this case the hub. all the devices communciate wqith each other throuhg this hub. On thid network one network will contain three client PCs, a server, a swtich, a primter and a access point. the router will communicate with another network with the same equipment and devices. The access point will allow other users to connect to the network through a devices with wireless cabability.
+The design of the network is a star network where all the devices on the network are connected to a central point in this case the hub. all the devices communicate with each other through this hub. On third network one network will contain three client PCs, a server, a switch, a primer and an access point. the router will communicate with another network with the same equipment and devices. The access point will allow other users to connect to the network through a device with wireless capability.
 
 ![design](https://github.com/HORNETJOE/Networking/blob/master/design%20network.PNG)
 
@@ -314,4 +314,27 @@ Router 192.168.10.1
 
 ### Creating the Network
 
-![Network]()
+![Network](https://github.com/HORNETJOE/Networking/blob/master/Network.PNG)
+
+Above is an image of the implemented network based on the design above. The IP address and Subnet masks can be seen next to the client PCs. Next to the server you can see the IP address as well as the Subnet mask and the Default gateway DNS Server. You can also see the router that is connected to another network with its own IP address and Subnet mask label next to it and the connection between the two networks can be seen.
+
+The reason that the star network model was used was because it more commonly seen network models seen in homes and business around the world. This network was supposed to resemble a standard home/business style environment, with the Hub handling the information and packets that are sent by the clients and the devices on the network.
+
+The type of cable used during the creation of the network was copper wiring because as well as the bring the cheapest to set up then the fibre optics it is more efficient for dealing with home style environments transmitting data not so far. So, the wires are not requirement to be long so the wires length can stay short so that the copper wiring can be used. A wireless access point was added to the network to allow the use of wireless devices to connect to network. The devices were also given the names of the characters of the TV shows Family guy (Network 2) and The Simpsons (Network 1) This will make it easier to communicate with the dives when they have a name that can be remembered by a user so they can send messages and data to them easier without having to remember the IP address of the other clients.
+
+### Testing
+#### User feedback
+
+User: Matt
+
+Feedback:
+
+Matt's comments on the network were "The design of the network is easy and simple to follow with the network being labelled. When I pinged a PC on the other network it was successful and no problem were apparent."
+
+User: Luke
+
+Feedback:
+
+Luke's comments on the network were "The network is easy to follow and I know which PC is which by the labelling however the network lacks any firewall protection which could lead to a minor or major security problem."
+
+### The test plan
