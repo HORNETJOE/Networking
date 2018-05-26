@@ -290,3 +290,5 @@ Workstation Architecture refers to a specific computer which is designed for tec
 A system bus is a connection that is used to carry data between the main memory of the computer and carrying it to the microprocessor. It provides a communication pathway for the data to travel on. The address of the bus will determine where the information should be sent and the control bus is used to determine its operating when it gets there.
 ## Network design
 The design of the network is a star network where all the devices on the network are connected to a central point in this case the hub. all the devices communciate wqith each other throuhg this hub. On thid network one network will contain three client PCs, a server, a swtich, a primter and a access point. the router will communicate with another network with the same equipment and devices. The access point will allow other users to connect to the network through a devices with wireless cabability.
+
+![design](https://github.com/HORNETJOE/Networking/blob/master/design%20network.PNG)
