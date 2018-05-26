@@ -279,11 +279,12 @@ A shielded cable is another type of electrical cable that is used to transmit da
 ##### Twisted pair
 Twisted pair is another type of cable that contain twisted wires within the caballing to reduce the chance of crosstalk and electromagnetic interference between the data and packets being transported.
 ### Permissions
-Permissions are the privileges that come with diffretn client and devices on the network such as a client might not have the same permission as a admin on the network etc. There permissions can also be seen as client rights and so on. There are diffrent types of permissions that can be allowed on a network. Both of theses diffrent permission types are listed below.
+Permissions are the privileges that come with different client and devices on the network such as a client might not have the same permission as a admin on the network etc. There permissions can also be client rights and so on. There are different types of permissions that can be allowed on a network. Both different permission types are listed below.
 #### NTFS
-NTFS are permissions that are used setting who can access certan files and folders on a network. They can set who has access to read and who has access to write on the files. NTFS allows for more flexable options to give the right users the right permissions they need to maintain the network and the files and ata on it.
+NTFS are permissions that are used setting who can access certain files and folders on a network. They can set who has access to read and who has access to write on the files. NTFS allows for more flexible options to give the right users the right permissions they need to maintain the network and the files on it.
 #### Shared Permissions
-Shared permissions are a set 
+Shared permissions allow similar privilege access to NTFS however these privileges are set for shared files. The permissions of the files will vary depending on what user and what their access is. These privileges will only apply to users to have access to the network that it is located on.
 ## Local Workstation Architecture
-
+Workstation Architecture refers to a specific computer which is designed for technical or scientific applications, intended primarily to be used by one user on the network. This type of workstation is mainly used to manage local area networks. Theses workshops are used to maintain the network and to fix many problems that occur on the network. The computer works faster than any other PC giving it an advantage when locating and solving problems on the network.
 ### System Bus
+A system bus is a connection that is used to carry data between the main memory of the computer and carrying it to the microprocessor. It provides a communication pathway for the data to travel on. The address of the bus will determine where the information should be sent and the control bus is used to determine its operating when it gets there.
