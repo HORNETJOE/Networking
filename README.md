@@ -338,3 +338,6 @@ Feedback:
 Luke's comments on the network were "The network is easy to follow and I know which PC is which by the labelling however the network lacks any firewall protection which could lead to a minor or major security problem."
 
 ### The test plan
+
+![testing](https://github.com/HORNETJOE/Networking/blob/master/testing.PNG)
+
