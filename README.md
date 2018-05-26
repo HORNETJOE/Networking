@@ -254,28 +254,36 @@ Virtualization is a server technique the involves partitioning physical server i
 A terminal service is a service that allows a user to take control of a remote computer or virtual machine using a network connection. This can allow a user to control aspects of other PC's from one PC to save time and resources and to prevent the user from going to each PC and changing them manually.
 ## The interdependence of workstation hardware
 ### Networking Software
-There are diffrent types of networking software, Below are the main six types of networking 9
-
+There are different types of networking software, below are the main six types of networking software programs that are used for creating networks.
 #### Client Software
-
+Client software is software that works within local area network and wide area networks and acts like an interface between a client’s computer and the server on the network. It is located on the client’s computer. Client software is any application on the client's PC, this can be word processors, Web browsers or any other service that the computer provides.
 #### Server Software
-
+Server software is the software that is used in network servers. The server software provides the server with the function that it needs to be able to interact with the clients and device on the network.
 #### Client Operating System
-
+Client operating system works within the client PC itself and is a low-level software that supports a computer's basic functions. The operating system helps the users with different functions such as scheduling, browsing the internet etc. One popular operating system used today is Microsoft windows.
 #### Server Operating system
-
+The Server operating system is like the operating system for clients, however the operating system for the server is specially designed for the server’s function and objectives. The functions that the server will need to do would be communicate with clients and other devices. It also enables the functions of managing the database, web mail and file management.
 #### Firewall
-
+The firewall is used to filter traffic mainly entering the network and will filter out any harmful software/packets of data from interacting with the network. The firewall gives a great security benefits to any network reduce the chances of any harmful effects taking place on the network from any outside sources.
 #### Proxies
-
+Proxies are servers that runs on a computer and will act as a halfway point between a server and the end and will take requests from the client. The proxy server will be given requests by the client for an internet resource.
 ### Comparison of network and Cabling
-
 #### Network Comparison
-
+A network card is a hardware component that allows a computer to connect to a computer network. The card allows the computer to exchange data and information between the network and the client's PC. This is a suitable device that is useful when connecting to a network. Another method for connection to a network would be a wireless network. The wireless network allows the connection the two networks without the need for a wired connection, meaning that the network can be access from anywhere that has an internet connection. The third type of network connection would be Mobile or otherwise known as celluer network connection. A mobile network is distributed using cells where each cell has a fixed transceiver or base station.
 #### Cabling Used
-
+Cabling in its basic terms means electrical or electronic cables that connect devices and hardware to other devices and hardware to transmit data to and from each device. There are many ways to contrast cabling to transmit data. Many have different end ports and wire placement, below are the three main/popular types of cabling used.
+##### Patch Cables
+Patch cables are the more commonly used types of cables. They are used to connect two electrical devices together. They are more commonly used for signal routing. Therefore, they are more commonly used for connecting devices on a network such as connecting a client to a switch or connecting and switch to a router etc.
+##### Shielded Cables
+A shielded cable is another type of electrical cable that is used to transmit data from one device to another, however this cable has a shield layer which is mostly composed of braided stands of copper, a non-braided spiral winding of copper tape or a layer of conducting polymer. This shield acts to reduce electrical noise from affecting the signals that are being transmitted.
+##### Twisted pair
+Twisted pair is another type of cable that contain twisted wires within the caballing to reduce the chance of crosstalk and electromagnetic interference between the data and packets being transported.
 ### Permissions
-
+Permissions are the privileges that come with diffretn client and devices on the network such as a client might not have the same permission as a admin on the network etc. There permissions can also be seen as client rights and so on. There are diffrent types of permissions that can be allowed on a network. Both of theses diffrent permission types are listed below.
+#### NTFS
+NTFS are permissions that are used setting who can access certan files and folders on a network. They can set who has access to read and who has access to write on the files. NTFS allows for more flexable options to give the right users the right permissions they need to maintain the network and the files and ata on it.
+#### Shared Permissions
+Shared permissions are a set 
 ## Local Workstation Architecture
 
 ### System Bus
